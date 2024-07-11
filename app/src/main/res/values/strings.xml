@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="numero">Escriba un número entero</string>
+    <string name="suma">SUMAR</string>
+    <string name="resta">RESTAR</string>
+    <string name="mult">MULTIPLICAR</string>
+    <string name="div">DIVIDIR</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="respuesta">RESPUESTA</string>
+
+</resources>
